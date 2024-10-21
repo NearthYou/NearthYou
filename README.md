@@ -41,11 +41,11 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/rider-2C2C32.svg?style=for-the-badge&logo=rider&logoColor=white" />&nbsp
 
-
-<br>
 <br>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=NearthYou&show_icons=true&theme=tokyonight)
+
 <br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NearthYou&layout=compact&theme=tokyonight)
 </div>
