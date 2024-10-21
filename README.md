@@ -38,8 +38,8 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/rider-2C2C32.svg?style=for-the-badge&logo=rider&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-000000.svg?style=for-the-badge&logo=visual-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white" />&nbsp
 
 
 <br>
