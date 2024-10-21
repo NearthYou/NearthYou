@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/rider-2C2C32.svg?style=for-the-badge&logo=rider&logoColor=white" />&nbsp
 
 <br>
+<br>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=NearthYou&show_icons=true&theme=tokyonight)
 
