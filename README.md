@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Siwon's%20Hub&fontSize=90)
 
 <!--내용 부분-->
-<h4 align="center">💻 게임 개발자 지망생입니다.</h4>
+<h3 align="center">💻 게임 개발자 지망생입니다.</h3>
 <br>
 
 <h4 align="center">🤖 Tech Stack</h4>
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/rider-2C2C32.svg?style=for-the-badge&logo=rider&logoColor=white" />&nbsp
 
+<br>
 <br>
 <br>
 <br>
