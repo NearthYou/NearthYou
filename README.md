@@ -5,3 +5,4 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=NearthYou&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NearthYou&layout=compact&theme=tokyonight)
 </div>
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBcXw0A)](https://www.git-ranker.com/users/NearthYou)
