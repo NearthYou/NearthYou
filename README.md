@@ -8,3 +8,5 @@
 ### Education
 
 크래프톤 정글 SW-AI Lab 12기
+
+<img width="375" height="131" alt="image" src="https://github.com/user-attachments/assets/d4b64b6c-8168-4ce6-a5d3-4ae7589fafbb" />
