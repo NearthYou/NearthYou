@@ -10,3 +10,8 @@
 크래프톤 정글 SW-AI Lab 12기
 
 <img width="375" height="131" alt="image" src="https://github.com/user-attachments/assets/d4b64b6c-8168-4ce6-a5d3-4ae7589fafbb" />
+
+### Learning
+
+- [PintOS](https://github.com/NearthYou/PintOS-Lab): 스레드, 프로세스, 가상 메모리 구현
+- [Neural Network & GPT](https://github.com/NearthYou/LLM-From-Scratch-Lab): NumPy 신경망과 소형 GPT 구현
