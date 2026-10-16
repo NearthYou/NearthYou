@@ -11,8 +11,6 @@
 
 컴퓨터공학 기초와 AI를 학습하는 5개월 합숙형 개발 교육 프로그램 수료
 
-<img width="375" height="131" alt="image" src="https://github.com/user-attachments/assets/d4b64b6c-8168-4ce6-a5d3-4ae7589fafbb" />
-
 ### Learning
 
 - [PintOS](https://github.com/NearthYou/PintOS-Lab): 스레드, 프로세스, 가상 메모리 구현
