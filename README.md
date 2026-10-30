@@ -9,8 +9,6 @@
 
 [크래프톤 정글 SW-AI Lab 12기 & 심화 과정 1기](https://jungle.krafton.com/courses/swailab) (26.03 ~ 26. 11)
 
-컴퓨터공학 기초와 AI를 학습하는 5개월 합숙형 개발 교육 프로그램 수료
-
 ### Learning
 
 - [PintOS](https://github.com/NearthYou/PintOS-Lab): 스레드, 프로세스, 가상 메모리 구현
